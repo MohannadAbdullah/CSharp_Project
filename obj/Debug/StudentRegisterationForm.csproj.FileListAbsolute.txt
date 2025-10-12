@@ -1,0 +1,11 @@
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\bin\Debug\StudentRegisterationForm.exe.config
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\bin\Debug\StudentRegisterationForm.exe
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\bin\Debug\StudentRegisterationForm.pdb
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.csproj.AssemblyReference.cache
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.frmRegisteration.resources
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.Properties.Resources.resources
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.csproj.GenerateResource.cache
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.csproj.CoreCompileInputs.cache
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.exe
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.pdb
+E:\C#Project\StudentRegisterationForm\StudentRegisterationForm\obj\Debug\StudentRegisterationForm.exe.config
